@@ -1,0 +1,2 @@
+Second text file of testGit is also being updated in second branch.
+Again this file is updating just to check and get to know  about the pull request in git.
